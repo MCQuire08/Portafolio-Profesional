@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .about-content {
+    margin-top: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 100%;
+    }
+  
+    .cv-buttons {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      display: flex;
+    }
+  
+    .cv-button {
+      margin: 10px;
+      width: calc(100% - 20px);
+    }
+  
+    .hidden-mobile {
+      display: none;
+    }
+  
+    .about-content h1 {
+      font-size: 3rem;
+    }
+  
+    .about-content p {
+      font-size: 0.8rem;
+      margin-bottom: 10px;
+    }
+    
+  }
+  

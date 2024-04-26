@@ -1,0 +1,14 @@
+@media (max-width: 640px) {
+    .banner .spline-scene {
+      display: none;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .banner .div-banner {
+      height: 500px;
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+  }
+  

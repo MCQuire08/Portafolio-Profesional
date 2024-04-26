@@ -1,0 +1,33 @@
+{
+    "nav-about": "About",
+    "nav-projects": "Projects",
+    "nav-skills": "Skills",
+    "nav-contact": "Contact",
+    "tit-about": "About Me",
+    "tex-about": "As a Full Stack developer with two years of experience, I have collaborated with various clients, specializing in the development of web and mobile applications. Additionally, as a DevOps Architect, I have optimized development and deployment processes in the cloud using technologies such as AWS, Azure, and Google Cloud Platform. My focus is on ensuring successful project delivery, meeting quality standards, and established deadlines.",
+    "tit-projects": "Projects",
+    "card1-tit": "Veterinary Moka Project",
+    "card1-tex": "This project was designed for the university subject 'Software Engineering Project 1'.",
+    "card2-tit": "Airport Management System",
+    "card2-tex": "This project was designed for the university subject 'Object-Oriented Programming'.",
+    "card3-tit": "Event Management System - EventWizz",
+    "card3-tex": "This project was designed for the university subject 'Software Engineering Project 2'.",
+    "card4-tit": "Social Network Linkup",
+    "card4-tex": "This project was designed for the university subject 'Design and Construction of Components'.",
+    "card5-tit": "Course Management System",
+    "card5-tex": "System created with the aim of tracking and assigning courses to a specific group of people.",
+    "card6-tit": "Billing System",
+    "card6-tex": "System created with the aim of inventory control and billing of said products.",
+    "tit-skills": "Skills",
+    "tit-contact": "Contact Me",
+    "tex-contact": "If you have any questions, comments, or a collaboration proposal, you can contact me by sending a message.",
+    "form-name": "Name",
+    "form-email": "Email",
+    "form-message": "Message",
+    "form-send": "Send",
+    "contact-error-title": "Error",
+    "contact-error-text": "An error occurred while sending the email...",
+    "contact-success-title": "The email has been sent successfully!"
+  
+  }
+  
